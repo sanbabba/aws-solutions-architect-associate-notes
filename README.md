@@ -1,3 +1,5 @@
+Forking it for self reference
+
 # Notes for AWS Certified Solutions Architect Associate
 
 I recently got the AWS solutions architect associate certificate in July 2019, and wanted to share my notes with anyone who might benefit from it. The path I followed was
